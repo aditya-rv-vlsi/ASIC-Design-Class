@@ -1,3 +1,0 @@
-Create a small C program and compile it using gcc compiler. Verify the output of the C program after execution.
-
-#include<stdio.h>
