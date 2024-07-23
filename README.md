@@ -16,10 +16,10 @@ After compilation, the executable will be generated. Run the executable in termi
 
 Final Output:
 In the below image we can observe the C code and the output together.
----
+***
 <details>
   <summary>Click to expand!</summary>
   <p>Your hidden content goes here.</p>
 </details>
----
+
 
