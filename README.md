@@ -24,7 +24,7 @@ In the below image we can observe the C code and the output together.
 
 ## Instruction Table
 
-|Sl. No | Instruction|Description of the Instruction| Type | Format                            | Binary Representation          |
+|Sl. No | Instruction| Type |Description of the Instruction |Format                            | Binary Representation          |
 |--------|----------------|---------------------------------------|------|-----------------------------------|--------------------------------|
 |1| ADD r11, r12, r13  | R    |Perform Addition between the values stored in registers R11 and R12, and store the result in register R13| funct7 rs2 rs1 funct3 rd opcode   | 0000000 01101 01100 000 01011 0110011 |
 |2| SUB r13, r11, r12  | R    |Perform Subtraction between the value stored in register R11 from R13, and store the result in register R12| funct7 rs2 rs1 funct3 rd opcode   | 0100000 01100 01011 000 01101 0110011 |
